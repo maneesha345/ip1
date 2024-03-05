@@ -1,0 +1,127 @@
+body{
+    background-image: url(bg.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+body{
+    background-image: url(fullback.jpeg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    
+}header{
+    background-color: rgba(255, 255, 255, 0.952);
+    display: flex;
+    height: 100px;
+}
+
+.a{
+    color: aliceblue;
+    padding: 10px;
+    text-decoration: none;
+    background-color: grey;
+    border-radius: 50px;
+    margin-right: 10px;
+}
+.navbar{
+    display: flex;
+    text-align: center;
+    align-items: center;
+    margin-left: 130px;
+    padding: 10px;
+}
+.a:hover{
+    background-color: red;
+}
+#grid{
+    display: flex;
+    
+}
+h2{
+    text-align: center;
+    color: rgb(252, 27, 7);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 30px;
+}
+.img1 img{
+    padding: 5px;
+    border-radius: 10%;
+}
+.para1{
+    padding: 5px;
+    font-size: 14px;
+}
+ADD TO CART 
+{
+    text-align: center;
+}
+item1
+{
+    padding-right:20px ;
+}
+.grid1{
+    display:grid;
+    grid-template-columns: auto auto auto;
+    margin-left: 40px;
+    
+}
+#vdo{
+    overflow: auto auto;
+    white-space: nowrap;
+}
+#vdo .slide{
+    display: inline-block;
+}
+
+form{
+    padding: 20px;
+    text-align: center;
+    background-color: rgb(16, 22, 2);
+    border-radius: 10%;
+    margin-left: 200px;
+    
+}
+.inputbox{
+    padding: 20px;
+}
+label{
+    color: rgb(241, 240, 235);
+}
+.btn input{
+    background-color: rgb(237, 238, 233);
+}
+.btn input:hover{
+    background-color: chartreuse;
+}
+.cr{
+    display: flex;
+    margin-left: 100px;
+    
+}
+.last a{
+    color:sandybrown;
+    padding: 50px;
+    font-size: 25px;
+    text-decoration: none;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.last{
+    margin-left: 120px;
+}
+footer{
+    padding: 30px;
+    background-color: black;
+    margin-top: 30px;
+}
+.bottom left{
+    text: align 30px;
+}
+.ab{
+    image position:left: 200px;
+}
+#home{
+    margin-left: 250px;
+}
